@@ -1,0 +1,212 @@
+ll
+la
+rm fish_notes.backup.txt fish_notes.txt sorted_notes.txt 
+cd notebook/
+cd Projects/week01//
+cd ~
+clear
+cat Delta_SkyMiles | grep -A 5 Jeremy
+cat AAA | grep -A 5 Jeremy
+cat AAA | grep -A Jeremy
+cat AAA | grep -A jeremy
+grep -A 5 Jeremy
+cat AAA | grep Jeremy
+cat AAA | grep jeremy
+grep jeremy AAA
+cd memberships/
+grep -A 5 L337 vehicles 
+less vehicles 
+cd ..
+cd interviews/
+head -n 179 streets/Buckingham 
+less Buckingham_Place 
+cat Buckingham_Place 
+cd streets/
+grep Annabel people 
+less people 
+grep CLUE crimescene 
+cd mystery/
+cd Projects/week01/clmystery/
+grep -A 5 CLUE
+cat crimescene | grep 'CLUE'
+javascripting
+open revising-strings.js 
+touch revising-strings.js
+open string-length.js 
+touch string-length.js
+open strings.js 
+touch strings.js
+javascripting verify variables.js 
+open variables.js 
+touch variables.js
+javascripting verify introduction.js 
+open introduction.js 
+open open introduction.js 
+touch introduction.js
+npm install --global javascripting
+cat solution 
+cat hint8
+cat hint7
+cat hint6
+cat hint5
+cat hint3 hint4 
+cat hint3
+cat hint2 
+cat hint1 
+less hint
+cd 
+less Terminal_City_Library 
+less Museum_of_Bash_History 
+grep AAA memberships/
+less crimescene 
+open cheatsheet.md 
+cd clmystery/
+cd week01
+cd Projects/
+cat memberships | grep AAA
+cat memberships | AAA
+cat crimescene 
+less instructions 
+less README.md 
+git clone https://github.com/amandacharles/clmystery.git
+cd week01/notebook/
+cd week01/notebook/ll
+cd
+cp fish_notes.txt fish_notes.backup.txt
+mv notes.txt fish_notes.txt
+cat sorted_notes.txt 
+cat notes.txt | sort > sorted_notes.txt
+cat notes.txt | sort
+cat notes.txt
+history >>  notes.txt
+history > notes.txt
+less notes.txt 
+less > notes.txt 
+less 
+history
+rm notes.txt 
+remove notes.txt 
+touch notes.txt
+dfdsf
+ls notes.txt 
+mkdir notebook
+week01/
+ls
+which which
+echo $PATH 
+which git
+cd /usr/local/
+cd /
+ls -l
+pwd
+cd /Applications/Notes.app/
+cd /etc/cups/
+cd /tmp/WhatsApp\ Crashes/
+cd /Applications/VLC.app/
+cd /Library/Ruby/
+cd Applications/
+cd ~/Applications/
+cd ~/Downloads/
+cd ~/Projects
+man tree
+tree -L 1 ~
+brew install tree
+echo ~
+open .
+cd ~/Desktop/
+ls -R
+man ls
+ls -lham
+ls -l1
+ls -lF
+ls -lhS
+ls -S
+ls -r
+ls -C
+ls -B
+ls -m
+ls -1
+ls -W
+ls -i
+ls -hal
+cd /Music
+cd /Users
+cd /Desktop
+cd desktop
+ls -hl
+pws
+cd Desktop/
+cd .
+.
+groups
+whoami
+surge
+git commit -m 'Add a CNAME'
+git add CNAME 
+touch CNAME
+git commit -m 'Add a tiny webpage'
+git add index.html 
+open index.html
+atom .
+touch index.html
+git init
+cd ~/Projects/week01/amandacharles.surge.sh/
+mkdir amandacharles.surge.sh
+cd ~/Projects/week01
+cd ~ /Projects/week01
+cd /Projects/week01
+mkdir -p ~/Projects/week01
+surge -V
+npm install -g surge
+rm ~/Desktop/test.js 
+node ~/Desktop/test.js 
+atom ~/Desktop/test.js
+node 
+node -v
+brew install node
+curl -fsSL https://git.io/vXOvh | sh
+cat ~/.gitconfig
+cat ~/gitconfig
+git config --global user.email 'ancharles11@gmail.com'
+git config --global user.name 'Amanda Charles'
+brew doctor 
+git --version
+brew install git
+which echo
+echo $EDITOR
+atom ~/.config/fish/config.fish
+atom ~/Downloads/
+brew info fish
+brew 
+fish_update_completions
+curl -fsSL https://git.io/vXOeC | ruby
+help
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew doctr
+unlink atom
+unlink apm
+cd /usr/local/bin/
+ls -hal /usr/local/bin/
+brew prune
+ll /usr/local/bin/
+brew update
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+uname
+open hangman.html
+cd personalpage
+open hangman
+  cd ..
+cd..
+cd.. 
+open myhangmangame.html
+cd atom
+apm install atom-html-preview
+open prompt.html
+mkdir personalpage
+apm
+apm install --packages-file packages.txt
+cd documents
+atom.
