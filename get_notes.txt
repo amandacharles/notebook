@@ -1,0 +1,8 @@
+git init
+# initialize a new repo
+git add
+# this will add a file to the staging area
+git commit -m 'message'
+# this will commit the staging area to the master branch
+git ll
+# this is the command for looking at all the files in your working directory
